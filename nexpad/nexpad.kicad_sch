@@ -7981,4 +7981,6 @@
 		)
 	)
 	(embedded_fonts no)
+
+	(symbol (lib_id "power:+3V3") (at 111.76 86.36 270) (unit 1) (body_style 1) (exclude_from_sim no) (in_bom yes) (on_board yes) (in_pos_files yes) (dnp no) (uuid "fe4410af-5d6f-4780-b67c-89ce4dadd348") (property "Reference" "#PWR0101" (at 107.95 86.36 0) (hide yes) (show_name no) (do_not_autoplace no) (effects (font (size 1.27 1.27)))) (property "Value" "+3V3" (at 115.062 86.36 90) (show_name no) (do_not_autoplace no) (effects (font (size 1.27 1.27)) (justify left))) (property "Footprint" "" (at 111.76 86.36 0) (hide yes) (show_name no) (do_not_autoplace no) (effects (font (size 1.27 1.27)))) (property "Datasheet" "" (at 111.76 86.36 0) (hide yes) (show_name no) (do_not_autoplace no) (effects (font (size 1.27 1.27)))) (property "Description" "Power symbol creates a global label with name \"+3V3\"" (at 111.76 86.36 0) (hide yes) (show_name no) (do_not_autoplace no) (effects (font (size 1.27 1.27)))) (pin "1" (uuid "6365bb3e-6da2-4c64-98f9-9bc155f1bcee")) (instances (project "nexpad" (path "/d4112607-9395-40cc-a34b-1997df106dfc" (reference "#PWR0101") (unit 1)))))
 )
