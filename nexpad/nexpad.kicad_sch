@@ -812,7 +812,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:1N4148"
+		(symbol "nexpad-symbols:1N4148"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3902,7 +3902,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 167.64 95.25 270)
 		(unit 1)
 		(body_style 1)
@@ -4184,7 +4184,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 193.04 82.55 270)
 		(unit 1)
 		(body_style 1)
@@ -5003,7 +5003,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 167.64 82.55 270)
 		(unit 1)
 		(body_style 1)
@@ -5189,7 +5189,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 193.04 69.85 270)
 		(unit 1)
 		(body_style 1)
@@ -5293,7 +5293,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 193.04 95.25 270)
 		(unit 1)
 		(body_style 1)
@@ -5828,7 +5828,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 142.24 95.25 270)
 		(unit 1)
 		(body_style 1)
@@ -6494,7 +6494,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 142.24 82.55 270)
 		(unit 1)
 		(body_style 1)
@@ -6923,7 +6923,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 167.64 69.85 270)
 		(unit 1)
 		(body_style 1)
@@ -7705,7 +7705,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
+		(lib_id "nexpad-symbols:1N4148")
 		(at 142.24 69.85 270)
 		(unit 1)
 		(body_style 1)
