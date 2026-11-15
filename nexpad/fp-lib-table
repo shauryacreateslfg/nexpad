@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "nexpad-footprints")(type "KiCad")(uri "/home/sandbox/nexpad/nexpad/nexpad-footprints.pretty")(options "")(descr "Project-local footprints for nexpad"))
+  (lib (name "nexpad-footprints")(type "KiCad")(uri "${KIPRJMOD}/nexpad-footprints.pretty")(options "")(descr "Project-local footprints for nexpad"))
 )
