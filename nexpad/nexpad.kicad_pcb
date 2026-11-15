@@ -87,7 +87,7 @@
 			(outputdirectory "")
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "07d7373a-80cf-484e-94b1-daefd90106b8")
 		(at 110.31 111.5 180)
@@ -389,14 +389,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "0a2a8696-593f-4c0c-9d99-ddb0a130a1c8")
 		(at 140.400001 134.647158 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D17"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "d16edcbc-fd93-49e7-b440-f73b96785685")
 			(effects
@@ -835,14 +835,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "12fb00ab-b4cf-4090-8d84-76c149a19dc4")
 		(at 140.100001 115.647158 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D14"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "d82627aa-56d9-4d0b-9088-1f618c892abe")
 			(effects
@@ -1281,14 +1281,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "15f44a5b-6864-496b-b9fe-c9a754d14cf8")
 		(at 158.900001 96.647158 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D12"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "2bc8b445-cc0f-4fc0-8406-30762b794718")
 			(effects
@@ -1727,7 +1727,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "16546a11-5cf5-4cff-8ca1-02e4ae47331d")
 		(at 123.35 87.424661)
@@ -2019,7 +2019,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "1e79f352-000a-433a-b86d-3fcb072bf790")
 		(at 142.35 87.46)
@@ -2311,14 +2311,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "1f60fd3a-5ca0-47a4-b9f6-beb712f1681f")
 		(at 139.900001 96.647158 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D11"
-			(at 0.6 -3.575 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "79e5fbe6-ef0a-4da7-910d-798297c45620")
 			(effects
@@ -2757,7 +2757,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "211176e3-54be-4b42-9005-8e2b3422b161")
 		(at 98.31 93 180)
@@ -3059,7 +3059,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "222e0420-63ad-4318-9a71-c2414d80e025")
 		(at 161.46 125.42)
@@ -3351,7 +3351,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "24b81ea9-923e-4ddf-8a2c-de3849c23869")
 		(at 109.62 130 180)
@@ -3653,7 +3653,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "31dbbd99-f039-4a7d-a7f4-a1a0bc30ced1")
 		(at 142.5 125.5)
@@ -3945,7 +3945,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3e2ab107-ce13-4128-8c4a-e6beb036c1b8")
 		(at 110.5 121 180)
@@ -4247,7 +4247,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3f7bc9e3-f90d-4bc0-b4e6-b1e1898e24e1")
 		(at 110.31 98 180)
@@ -4549,7 +4549,7 @@
 			)
 		)
 	)
-	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+	(footprint "nexpad-footprints:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "4af82ba4-77db-41f2-b1e9-ffb944f07803")
 		(at 166.5 78.5 180)
@@ -4972,7 +4972,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric"
+	(footprint "nexpad-footprints:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "4c27f8b9-c4ca-40b9-b1f6-1a63b48f16af")
 		(at 130.5 103.5 180)
@@ -5130,14 +5130,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "56c8ea8b-cf6e-4226-9394-c1b3c73c760d")
 		(at 120.900001 96.647158 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D10"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "071591a6-d7d1-4819-b4f3-3d9213c5cbd3")
 			(effects
@@ -5576,7 +5576,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "60567b07-7b41-4c5c-89a2-46afda31178f")
 		(at 123.35 125.46)
@@ -5868,14 +5868,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "674426af-ee32-46c1-8630-4b4dd1030cde")
 		(at 159 134.5 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D18"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "92d0f82c-8057-4453-b088-2387ad2ac93e")
 			(effects
@@ -6314,14 +6314,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "74475a8c-db76-4090-8558-65e390b1a008")
 		(at 121 134.5 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D16"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "5b32d15e-83f1-491f-921a-1ea1fd9164d3")
 			(effects
@@ -6760,7 +6760,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "74781e02-a8a7-47d3-bdb4-75bc8268a379")
 		(at 161.5 87.5)
@@ -7052,7 +7052,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7c3db2a4-12fa-46da-bcc3-e88ae83db644")
 		(at 142.5 106.5)
@@ -7344,14 +7344,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "8f996763-cb42-47df-97da-9c2e2f1732fe")
 		(at 159 115.5 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D15"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "54984bb8-35cc-40fc-a643-f184d8446846")
 			(effects
@@ -7790,7 +7790,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "94e42509-b437-4e87-87b1-ebb4fd5eaecc")
 		(at 99.12 125 180)
@@ -8092,7 +8092,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "9851ba1a-68d2-4812-a20a-d2ff6398d2c0")
 		(at 161.54 106.42)
@@ -8384,7 +8384,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a4b75dc6-ef8d-4730-9e3d-ce522868cc18")
 		(at 99.31 134.5 180)
@@ -8686,7 +8686,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c25ee20a-e7d7-4758-b5cf-06a06fa6df38")
 		(at 98.31 103 180)
@@ -8988,7 +8988,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "nexpad-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d9435134-efe6-4358-9e60-8ea4c209c4d1")
 		(at 98.81 116.5 180)
@@ -9290,7 +9290,7 @@
 			)
 		)
 	)
-	(footprint "KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master:SSD1306-0.91-OLED-4pin-128x32"
+	(footprint "nexpad-footprints:SSD1306-0.91-OLED-4pin-128x32"
 		(layer "F.Cu")
 		(uuid "e1032e8f-97f9-4929-936b-f39420c9d7a6")
 		(at 149.885 80.885 180)
@@ -9456,7 +9456,7 @@
 			(uuid "1c1d530b-ddf9-461e-a381-1c39517e1d23")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -9467,7 +9467,7 @@
 			(uuid "75e77eb4-05d6-4da5-b745-e89db02ce529")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -9478,7 +9478,7 @@
 			(uuid "b9e44740-66c4-4fc6-9d29-a2f01c532049")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -9489,7 +9489,7 @@
 			(uuid "d6361db3-a679-4961-aca3-ebac14d016c8")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -9551,7 +9551,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "nexpad-footprints:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "e762aac9-2231-46ba-a852-af406e62028e")
 		(at 123.5 106.5)
@@ -9843,14 +9843,14 @@
 			)
 		)
 	)
-	(footprint "footprints:SK6812MINI-E_fixed"
+	(footprint "nexpad-footprints:SK6812MINI-E_fixed"
 		(layer "F.Cu")
 		(uuid "f45882de-1cf4-4c3f-9fbe-2ebbe9ed9fb3")
 		(at 121.100001 115.647158 180)
 		(descr "Add-on for regular MX-footprints with SK6812 MINI-E")
 		(tags "cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight")
 		(property "Reference" "D13"
-			(at 0.6 -3.1 0)
+			(at 4.6 0 0)
 			(layer "F.SilkS")
 			(uuid "0450ce90-a291-4314-ae52-b715335d64cc")
 			(effects
@@ -10289,7 +10289,7 @@
 			)
 		)
 	)
-	(footprint "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
+	(footprint "nexpad-footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
 		(layer "B.Cu")
 		(uuid "43a39305-9d44-4d4b-9520-4dc6779acc7f")
 		(at 99.4 74.6 180)
@@ -10353,130 +10353,6 @@
 		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start 8.9 -8.5)
-			(end 8.9 8.5)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "d4a22bfb-a252-4788-97e8-e6e0b9ac3430")
-		)
-		(fp_line
-			(start 6.9 10.49909)
-			(end -6.9 10.49909)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "6eac596a-9310-4589-ab2b-7b6b4eb8edc5")
-		)
-		(fp_line
-			(start 4.5 11.92403)
-			(end 4.5 4.57073)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "590d2b45-05a3-440a-89b5-ef024a31708d")
-		)
-		(fp_line
-			(start 4.5 4.57073)
-			(end -4.5 4.57073)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "11c080fd-5706-4d0e-ac3b-27624320ef7f")
-		)
-		(fp_line
-			(start -4.5 11.92403)
-			(end 4.5 11.92403)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "8c0de1cf-90b8-400c-8fd8-7fc5f12d2c6e")
-		)
-		(fp_line
-			(start -4.5 4.57073)
-			(end -4.5 11.92403)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "452bb1e5-4147-4a35-b16b-2e106d1ab4fe")
-		)
-		(fp_line
-			(start -6.9 -10.5)
-			(end 6.9 -10.5)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "e47f20f6-0ec1-449f-9cc6-1460efab29b1")
-		)
-		(fp_line
-			(start -8.9 8.5)
-			(end -8.9 -8.5)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "ddfc9207-b86f-4b11-85d9-848b8d1a8341")
-		)
-		(fp_arc
-			(start 8.9 8.5)
-			(mid 8.301492 9.901492)
-			(end 6.9 10.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "142a9ae3-87d3-45f0-bb2b-1a66fe007f01")
-		)
-		(fp_arc
-			(start 6.9 -10.5)
-			(mid 8.314214 -9.914214)
-			(end 8.9 -8.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "fff450d8-4908-4cc0-b76f-f709f50e55f5")
-		)
-		(fp_arc
-			(start -6.9 10.5)
-			(mid -8.301491 9.901491)
-			(end -8.9 8.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "4686083d-037e-4861-a743-e8c88663e942")
-		)
-		(fp_arc
-			(start -8.9 -8.5)
-			(mid -8.301423 -9.901423)
-			(end -6.9 -10.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "bf282d68-9a51-4d7e-9dfe-4fd02cc80571")
-		)
 		(fp_circle
 			(center -11 8.8)
 			(end -11 9.054)
@@ -13143,32 +13019,6 @@
 			(layer "B.Fab")
 			(uuid "68287415-eff0-4820-8c6c-69d48e6ecde8")
 		)
-		(fp_text user "Seeed Studio"
-			(at 0 1.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "bcc0b4f3-74ba-4326-9ac0-1f0ac7aa3ae7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "XIAO"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "929dd2d0-925f-4325-8ef6-fc89bfa23587")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(pad "1" thru_hole rect
 			(at -7.625 7.62 180)
 			(size 3.5 1.7)
@@ -13622,14 +13472,6 @@
 		(uuid "798d2077-3a60-4559-9957-e02de5d1e81b")
 	)
 	(segment
-		(start 98.6 83.805)
-		(end 94.375 79.58)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW3")
-		(uuid "7c89bcb0-8f11-4c58-bb81-08700d9da5e5")
-	)
-	(segment
 		(start 94.4 80.8)
 		(end 94.2 80.6)
 		(width 0.2)
@@ -14039,7 +13881,7 @@
 	)
 	(segment
 		(start 125 117.8)
-		(end 125 129.732944)
+		(end 125 129.4)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "+5V")
@@ -14196,14 +14038,6 @@
 		(layer "B.Cu")
 		(net "+5V")
 		(uuid "47881a65-57dd-448a-a0a3-3e4e2c33e29d")
-	)
-	(segment
-		(start 125 129.732944)
-		(end 124.5 130.232944)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "+5V")
-		(uuid "519cb15d-fd0a-4af0-bdef-5ff11b2749cc")
 	)
 	(segment
 		(start 95.6 69.8)
@@ -14454,6 +14288,14 @@
 		(uuid "9cea0a6a-fbf5-444b-860e-00a931d7fcb2")
 	)
 	(segment
+		(start 125 129.4)
+		(end 124.6 129.4)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "+5V")
+		(uuid "9ea4c22f-b3db-4313-a3a0-e833cbe34536")
+	)
+	(segment
 		(start 124.3 97.5)
 		(end 123.5 97.5)
 		(width 0.2)
@@ -14500,14 +14342,6 @@
 		(layer "B.Cu")
 		(net "+5V")
 		(uuid "bfdb79b6-7018-404b-bfcb-40daab1c1b7d")
-	)
-	(segment
-		(start 94.495 67)
-		(end 94.5 67)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "+5V")
-		(uuid "c2029c3d-948d-47dd-8b3a-9c0938c18681")
 	)
 	(segment
 		(start 94.375 66.88)
@@ -15782,14 +15616,6 @@
 		(uuid "ffe0ba63-c64c-404a-9ba9-ff5dcab54ea2")
 	)
 	(via
-		(at 123.35 87.424661)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "COL1")
-		(uuid "0855ddac-cb0f-4530-9563-8a8b64765c1b")
-	)
-	(via
 		(at 133.538427 122.6)
 		(size 0.6)
 		(drill 0.3)
@@ -15852,14 +15678,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "COL1")
 		(uuid "75660b80-ea09-49ee-875e-d2a2e0d56c4d")
-	)
-	(via
-		(at 126.4 81)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "COL1")
-		(uuid "7ecad285-f88b-4911-9961-014ef4e20213")
 	)
 	(via
 		(at 127.2 91)
@@ -16038,14 +15856,6 @@
 		(uuid "ed1e161d-2de5-4cc8-afe9-fe8a6950a02a")
 	)
 	(via
-		(at 96.4 90.2)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "Net-(D1-A)")
-		(uuid "3bbfe4b8-5ef0-4be7-9678-2bbed85aacdb")
-	)
-	(via
 		(at 106.8 90)
 		(size 0.6)
 		(drill 0.3)
@@ -16204,14 +16014,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "COL2")
 		(uuid "38960dcf-391a-45f6-a391-69466038eda4")
-	)
-	(via
-		(at 142.35 87.46)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "COL2")
-		(uuid "47d96174-15d8-4ce1-9759-b0e1513ce25b")
 	)
 	(via
 		(at 150.605737 117.994263)
@@ -16436,22 +16238,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "Net-(D2-A)")
 		(uuid "a197b695-bcec-43f5-a4e4-7f4e28fcf482")
-	)
-	(via
-		(at 114.5 109.3)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "Net-(D2-A)")
-		(uuid "ebb6986f-b646-44f9-8564-b0c8074f0b80")
-	)
-	(via
-		(at 119 106.8)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "Net-(D2-A)")
-		(uuid "f6779f19-fd3e-426f-b414-fc53d247244c")
 	)
 	(via
 		(at 112.8 113.8)
@@ -16868,14 +16654,6 @@
 		(layer "F.Cu")
 		(net "ROW1")
 		(uuid "e87eaa90-6927-44ac-8395-96a0c6857fd4")
-	)
-	(segment
-		(start 98.31 93)
-		(end 98.31 85.815)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW1")
-		(uuid "e8d7543c-8f71-40c7-a80c-ec7b884dce74")
 	)
 	(segment
 		(start 98.6 85.8)
@@ -17310,14 +17088,6 @@
 		(uuid "9cd116d5-107d-47be-910b-b887852127a8")
 	)
 	(segment
-		(start 94.64 77.04)
-		(end 94.375 77.04)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW2")
-		(uuid "a957bb41-ce6f-4259-b524-249069fe7aa5")
-	)
-	(segment
 		(start 106.8 116.2)
 		(end 105.724265 115.124265)
 		(width 0.2)
@@ -17398,22 +17168,6 @@
 		(uuid "308c9043-3a48-4332-9c1f-8f769ce7c8cd")
 	)
 	(via
-		(at 97.8 85.2)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "ROW2")
-		(uuid "6f005f77-9632-4b14-a766-787b76e902b2")
-	)
-	(via
-		(at 99.2 86.4)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "ROW2")
-		(uuid "8a699898-b95e-4e15-8ae6-4aa647100f96")
-	)
-	(via
 		(at 104.875735 114.275735)
 		(size 0.6)
 		(drill 0.3)
@@ -17428,14 +17182,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "ROW2")
 		(uuid "ab42b525-92db-4244-9b61-2bc332b7588a")
-	)
-	(via
-		(at 99.2 86.4)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "ROW2")
-		(uuid "b16e2dd7-afc4-476f-a005-7f7c7d061350")
 	)
 	(via
 		(at 101.6 125)
@@ -18478,14 +18224,6 @@
 		(uuid "1c1b3404-863a-4e17-b402-35f092870d64")
 	)
 	(via
-		(at 99.8 79.4)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "Net-(U1-PB09_A7_D7_RX)")
-		(uuid "51f7e057-4660-47a2-bce0-297fb708e0a4")
-	)
-	(via
 		(at 96.573235 82.626765)
 		(size 0.6)
 		(drill 0.3)
@@ -18892,14 +18630,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "Net-(D7-A)")
 		(uuid "4bf02076-cfc6-4dec-b1fd-e3aee10f4f9f")
-	)
-	(via
-		(at 100.2 122.8)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "Net-(D7-A)")
-		(uuid "4f0b4ddb-54af-4ede-b158-44853b3cb4f4")
 	)
 	(via
 		(at 100.3 123)
