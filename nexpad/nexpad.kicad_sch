@@ -2367,6 +2367,26 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 128.27) (xy 30.48 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1f00003-0000-4000-8000-000000000031")
+	)
+	(wire
+		(pts
+			(xy 25.4 33.02) (xy 20.32 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1f00004-0000-4000-8000-000000000041")
+	)
+	(wire
+		(pts
 			(xy 137.16 88.9) (xy 142.24 88.9)
 		)
 		(stroke
@@ -8092,7 +8112,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 111.76 83.82 0)
+		(at 30.48 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8101,16 +8121,16 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a1f00001-0000-4000-8000-000000000011")
-		(property "Reference" "#FLG01" (at 111.76 78.74 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
-		(property "Value" "PWR_FLAG" (at 111.76 80.63999999999999 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
-		(property "Footprint" "" (at 111.76 83.82 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
-		(property "Datasheet" "~" (at 111.76 83.82 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Reference" "#FLG01" (at 30.48 123.19 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Value" "PWR_FLAG" (at 30.48 125.09 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "" (at 30.48 128.27 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Datasheet" "~" (at 30.48 128.27 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
 		(pin "1" (uuid "a1f00001-0000-4000-8000-000000000010"))
 		(instances (project "nexpad" (path "/d4112607-9395-40cc-a34b-1997df106dfc" (reference "#FLG01") (unit 1))))
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 111.76 81.28 0)
+		(at 20.32 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8119,10 +8139,10 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a1f00002-0000-4000-8000-000000000021")
-		(property "Reference" "#FLG02" (at 111.76 76.2 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
-		(property "Value" "PWR_FLAG" (at 111.76 78.1 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
-		(property "Footprint" "" (at 111.76 81.28 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
-		(property "Datasheet" "~" (at 111.76 81.28 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Reference" "#FLG02" (at 20.32 27.94 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Value" "PWR_FLAG" (at 20.32 29.84 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "" (at 20.32 33.02 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
+		(property "Datasheet" "~" (at 20.32 33.02 0) (show_name no) (do_not_autoplace no) (hide yes) (effects (font (size 1.27 1.27))))
 		(pin "1" (uuid "a1f00002-0000-4000-8000-000000000020"))
 		(instances (project "nexpad" (path "/d4112607-9395-40cc-a34b-1997df106dfc" (reference "#FLG02") (unit 1))))
 	)
