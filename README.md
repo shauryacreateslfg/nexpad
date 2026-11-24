@@ -7,7 +7,7 @@ i started with a hackpad because its usually every beginners first project but i
 <h3>Schematic</h3>
 <img width="1908" height="961" alt="Screenshot 2026-11-01 012111" src="https://github.com/user-attachments/assets/8e28d18f-c469-446f-aba8-94eea1acd580" />
 <h3>PCB</h3>
-<img width="817" height="726" alt="image" src="https://github.com/user-attachments/assets/dc883769-662f-49b7-abaa-13cc3d956bb1" />3D view
+<img width="817" height="726" alt="image" src="https://github.com/user-attachments/assets/dc883769-662f-49b7-abaa-13cc3d956bb1" />
 <h3>3D view</h3>
 <img width="801" height="677" alt="image" src="https://github.com/user-attachments/assets/d72b0b1f-b022-438c-a0d7-05ecdc263e7d" />
 
