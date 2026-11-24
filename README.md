@@ -1,5 +1,19 @@
 # nexpad
-# Nexpad Bill of Materials
+This was my first time working on hardware and glad i chose a macropad :) [it wasnt easy tho;) ]
+<img width="1917" height="1012" alt="Screenshot 2026-11-18 234551" src="https://github.com/user-attachments/assets/5ea03789-e5aa-485c-944e-d48a7a2a6b51" />
+# motive
+i started with a hackpad because its usually every beginners first project but i didnt blindly use the guide, i worked upon adding more switches and customized functioning keys too myself,it was a hassle but i managed to do it on my OWN ;)
+# nexpad's schematic and pcb
+<h3>Schematic</h3>
+<img width="1908" height="961" alt="Screenshot 2026-11-01 012111" src="https://github.com/user-attachments/assets/8e28d18f-c469-446f-aba8-94eea1acd580" />
+<h3>PCB</h3>
+<img width="817" height="726" alt="image" src="https://github.com/user-attachments/assets/dc883769-662f-49b7-abaa-13cc3d956bb1" />3D view
+<h3>3D view</h3>
+<img width="801" height="677" alt="image" src="https://github.com/user-attachments/assets/d72b0b1f-b022-438c-a0d7-05ecdc263e7d" />
+
+
+
+# nexpad's Bill of Materials
 
 | # | Part | Qty | Est. price (USD){incl. delivery} | Link |
 |---|------|-----|---------------------------|------|
@@ -22,3 +36,8 @@
 | 17 | Soldering Flux Paste, 15 g | 1 | $1.13 | https://amzn.in/d/0eGcyvb2 |
 | 18 | Desoldering Wick, 1.5 m | 1 | $2.26 | https://www.amazon.in/UPTO-DATE-PRODUCTS-Desoldering-1-5mm-1-5Meter/dp/B0H62CXC13 |
 ||Total Cost (including delivery)| | $85-90||
+
+
+#
+made with love <3 
+Shaurya
