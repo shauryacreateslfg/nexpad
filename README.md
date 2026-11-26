@@ -20,7 +20,7 @@ i started with a hackpad because its usually every beginners first project but i
 | 1 | Seed XIAO RP2040 | 1 | $8| https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/ |
 | 2 | MX-style switches(pack of 10) | 1 | $5 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/ |
 | 3 | 1N4148 diodes(pack of 50) | 1 | $1.72 | https://amzn.in/d/06aqwh1L |
-| 4 | SK6812 MINI-E RGB LEDs | 10 | $.226 | https://nanohertztechnologies.com/products/addressable-smd-led-sk6812mini-e-6812-ws2812-opsco |
+| 4 | SK6812 MINI-E RGB LEDs | 10 | $0.226 | https://nanohertztechnologies.com/products/addressable-smd-led-sk6812mini-e-6812-ws2812-opsco |
 | 5 | EC11 rotary encoder,20 mm | 1 | $3 | https://amzn.in/d/0gVF5ons |
 | 6 | Encoder knob, 6mm D-shaft bore | 1 | $3 | https://3dprintshop.in/product/rotary-encoder-knob-set |
 | 7 | 0.91" OLED 128x32 I2C (GND-VCC-SCL-SDA) | 1 | $4.5 | https://amzn.in/d/0hrdOsnR |
